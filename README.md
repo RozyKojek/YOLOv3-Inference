@@ -46,7 +46,7 @@ Make sure the folder structure look like this
 You can download the weights in this link [here.](https://drive.google.com/drive/folders/1olvkyvQysahvxT0znz1itsL5cFdBELCu?usp=sharing)
 
 ## Running the Inference
-You can easily run the inference using two methods below:
+You can easily run the inference using jupyter notebook using steps below:
 ### Running the jupyter notebook
 1. Make sure jupyter notebook is installed.
 2. Open terminal/cmd/powershell in the main directory.
