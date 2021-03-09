@@ -1,5 +1,5 @@
 # YOLOv3-Inference
-This repository is created as the Material for the Professional Ethic Course of FT-UMS.
+This repository is created as a study material for the Professional Ethic Course of FT-UMS.
 
 ## Requirements
 1. Python 3.6 or aboove
