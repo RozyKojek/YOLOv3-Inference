@@ -50,7 +50,4 @@ You can easily run the inference using two methods below:
 ### Running the jupyter notebook
 1. Make sure jupyter notebook is installed.
 2. Open terminal/cmd/powershell in the main directory.
-3. Type jupyter notebook in the terminal/cmd/powershell
-```
-jupyter notebook
-```
+3. Type `jupyter notebook` in the terminal/cmd/powershell
