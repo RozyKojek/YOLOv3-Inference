@@ -43,7 +43,7 @@ Make sure the folder structure look like this
 ```
 
 ## Downloading the Weights
-You can download the weights in this link [here.](https://drive.google.com/drive/folders/1UfK4o6fIFKaTSCQKFPoy9S6p0AXwfLva?usp=sharing)
+You can download the weights in this link [here.](https://drive.google.com/drive/folders/1olvkyvQysahvxT0znz1itsL5cFdBELCu?usp=sharing)
 
 ## Running the Inference
 You can easily run the inference using two methods below:
