@@ -35,8 +35,8 @@ Make sure the folder structure look like this
 │   ├── torch_utils.py
 │   └── utils.py
 ├── weights
-    ├── best_car.pt
-    └── best_person.pt
+│   ├── best_car.pt
+│   └── best_person.pt
 ├── detect.py
 ├── inference.ipynb
 └── models.py
