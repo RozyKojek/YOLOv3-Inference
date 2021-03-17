@@ -1,10 +1,10 @@
 # How to Setup Python and Jupyter Notebook on Windows
 
 ## How to Setup Python
-Tuliskan langkah-langkahnya di sini.
+Tuliskan langkah-langkahnya di sini. (Kelompok I)
 
 ## How to Setup Pytorch
-Tuliskan langkah-langkahnya di sini.
+Tuliskan langkah-langkahnya di sini. (Kelompok II)
 
 ## How to Setup Jupyter Notebook
-Tuliskan langkah-langkahnya di sini.
+Tuliskan langkah-langkahnya di sini. (Kelompok II)
