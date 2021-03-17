@@ -4,7 +4,7 @@
 Tuliskan langkah-langkahnya di sini. (Kelompok I)
 
 ## How to Setup Pytorch
-Tuliskan langkah-langkahnya di sini. (Kelompok II)
+Tuliskan langkah-langkahnya di sini. (Kelompok I)
 
 ## How to Setup Jupyter Notebook
 Tuliskan langkah-langkahnya di sini. (Kelompok II)
