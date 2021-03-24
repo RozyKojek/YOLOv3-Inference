@@ -1,5 +1,7 @@
 # How to Setup Python and Jupyter Notebook on Windows
 
+Ditulis oleh Muhammad Islah, Fachrur Rozi, Rino Aldi Pratama, Muhammad Ulul Azi, Sofwan Benhawan, Rivan Adi Saputra, Moch Adhyansyah Nugraha, Angga Putra Pradana, Suhendra, Yoga Nur Qhazhan, dan Chandra Himawan.
+
 ## How to Setup Python
 Tuliskan langkah-langkahnya di sini. (Kelompok I)
 1. Download python dari ...
