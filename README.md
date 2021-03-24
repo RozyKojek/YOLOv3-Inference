@@ -1,6 +1,6 @@
 # YOLOv3-Inference
 This repository is created as a study material for the Professional Ethic Course of FT-UMS.
-Contibution: Muhammad Islah, Fachrur Rozi, Rino Aldi Pratama, Muhammad Ulul Azi, Sofwan Benhawan, Rivan Adi Saputra, Moch Adhyansyah Nugraha, Angga Putra Pradana, Suhendra, Yoga Nur Qhazhan, dan Chandra Himawan.
+Contibution: Muhammad Islah, Fachrur Rozi, Rino Aldi Pratama, Muhammad Ulul Azi, Sofwan Benhawan, Rivan Adi Saputra, Moch Adhyansyah Nugraha, Angga Putra Pradana, Suhendra, Yoga Nur Qhazhan, and Chandra Himawan.
 
 ## Requirements
 1. Python 3.6 or aboove
