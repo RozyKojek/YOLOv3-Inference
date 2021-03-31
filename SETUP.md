@@ -6,6 +6,9 @@ Ditulis oleh Muhammad Islah, Fachrur Rozi, Rino Aldi Pratama, Muhammad Ulul Azi,
 Tuliskan langkah-langkahnya di sini. (Kelompok I)
 1. Download python dari ...
 
+Contoh menambahkan gambar
+![plot](./assets/YOLO_Arch.jpg) 
+
 ## How to Setup Pytorch
 Tuliskan langkah-langkahnya di sini. (Kelompok I)
 1. Pastikan PIP sudah terinstall
