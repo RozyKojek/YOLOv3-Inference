@@ -7,7 +7,7 @@ Tuliskan langkah-langkahnya di sini. (Kelompok I)
 1. Download python dari ...
 
 Contoh menambahkan gambar
-![alt text](https://github.com/Universitas-Muhammadiyah-Surabaya-EP/YOLOv3-Inferenceblob/main/assets/YOLO_Arch.jpg?raw=true) 
+![alt text](https://github.com/Universitas-Muhammadiyah-Surabaya-EP/YOLOv3-Inference/blob/main/assets/YOLO_Arch.jpg?raw=true) 
 
 ![plot](./assets/YOLO_Arch.jpg) 
 
