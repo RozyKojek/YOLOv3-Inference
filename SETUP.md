@@ -12,9 +12,12 @@ Tuliskan langkah-langkahnya di sini. (Kelompok I)
 6. Lalu pastikan PIP ikut terinstall, untuk menginstall PIP pastikan kotak dialog pada proses instalasi Python sudah tercentang.
 7. Untuk memastikan Pyhon sudah terinstal, ketik "cmd" pada Menu Start/Search box/icon. kemudian ketik perintah "python" pada cmd
 8. jika python sudah terinstal dengan benar maka tidak akan muncul output seperti di gambar.
-
+![plot](./assets/Image_01.jpg)
 9. Lalu untuk mengecek PIP sudah terinstal dengan benar, tinggal buka kembali cmd dan ketik perintah "pip --version".
 10. jika sudah terinstal dengan benar maka akan muncul seperti di gambar.
+![plot](./assets/Image_02.jpg)
+
+----------------------------------------------------------
 
 Contoh menambahkan gambar
 ![alt text](https://github.com/Universitas-Muhammadiyah-Surabaya-EP/YOLOv3-Inference/blob/main/assets/YOLO_Arch.jpg?raw=true) 
