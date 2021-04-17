@@ -24,6 +24,7 @@ Contoh menambahkan gambar
 
 ![plot](./assets/YOLO_Arch.jpg) 
 
+
 ## How to Setup Pytorch
 Tuliskan langkah-langkahnya di sini. (Kelompok I)
 1. Pastikan PIP sudah terinstall
@@ -33,6 +34,7 @@ Tuliskan langkah-langkahnya di sini. (Kelompok I)
 4. ketik "cmd" pada Menu Start/Search box/icon. kemudian ketik perintah "python" pada cmd lalu enter dan ketik perintah "import torch".
 5. Jika Pytorch terinstal dengan benar maka tidak akan muncul baris error seperti di gambar.
 ![alt text](https://github.com/Universitas-Muhammadiyah-Surabaya-EP/YOLOv3-Inference/blob/main/assets/Image_04.jpg?raw=true)
+
 
 ## How to Setup Jupyter Notebook
 Tuliskan langkah-langkahnya di sini. (Kelompok II)
