@@ -17,7 +17,7 @@ Tuliskan langkah-langkahnya di sini. (Kelompok I)
 10. jika sudah terinstal dengan benar maka akan muncul seperti di gambar.
 ![plot](./assets/Image_02.jpg)
 
-----------------------------------------------------------
+===========================================
 
 Contoh menambahkan gambar
 ![alt text](https://github.com/Universitas-Muhammadiyah-Surabaya-EP/YOLOv3-Inference/blob/main/assets/YOLO_Arch.jpg?raw=true) 
