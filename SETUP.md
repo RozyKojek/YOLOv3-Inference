@@ -29,11 +29,11 @@ Contoh menambahkan gambar
 Tuliskan langkah-langkahnya di sini. (Kelompok I)
 1. Pastikan PIP sudah terinstall
 2. lalu ketik perintah seperti di gambar (sesuaikan dengan PC yang digunakan apakah integrated GPU atau dedicated GPU/GPU NVIDIA)
-![alt text](https://github.com/Universitas-Muhammadiyah-Surabaya-EP/YOLOv3-Inference/blob/main/assets/Image_03.jpg?raw=true)
+![plot](./assets/Image_03.jpg)
 3. Jika proses instalasi Pytorch di cmd sudah selesai lakukan pengecekan apakah Pytorch sudah terinstal dengan benar atau tidak.
 4. ketik "cmd" pada Menu Start/Search box/icon. kemudian ketik perintah "python" pada cmd lalu enter dan ketik perintah "import torch".
 5. Jika Pytorch terinstal dengan benar maka tidak akan muncul baris error seperti di gambar.
-![alt text](https://github.com/Universitas-Muhammadiyah-Surabaya-EP/YOLOv3-Inference/blob/main/assets/Image_04.jpg?raw=true)
+![plot](./assets/Image_04.jpg)
 
 
 ## How to Setup Jupyter Notebook
